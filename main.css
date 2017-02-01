@@ -42,7 +42,7 @@ body 		{
 			{
 				height: 300px;
 				width: 300px;
-				position: initial;
+				position: fixed;
 				margin: 300px auto;
 			}
 
